@@ -1,5 +1,3 @@
-# udemy-reversi-webapp
-
 ## Node.js とパッケージのインストール方法
 
 以下のコマンドで、.tool-versions に書かれたバージョンの Node.js をインストールしてください。
@@ -22,7 +20,7 @@ npm install
 npx ts-node hello.ts
 ```
 
-## リバーシアプリケーションの開発環境の起動
+## アプリケーションの開発環境の起動
 
 以下のコマンドで、MySQL を起動できます。
 
